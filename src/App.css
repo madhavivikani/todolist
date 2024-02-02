@@ -1,0 +1,76 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.one{
+  margin: 7px 0;
+}
+body{
+  text-align: center;
+  background-color: white;
+  background-image: url(../image/panda.jpg);
+  background-repeat: no-repeat;
+}
+.name{
+  background-color: transparent;
+  padding: 10px 100px 10px 10px;
+  margin-right: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  border: 1px solid #bda521;
+}
+.btn,.del,.edit{
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #bda521;
+  color: white;
+  border: none;
+}
+.del{
+  padding: 7px !important;
+  margin-right: 5px;
+}
+.edit{
+  padding: 7px !important;
+}
+li{
+  list-style: none;
+}
+.App{
+  background-color:white;
+  box-shadow: 0px 0px 5px lightgray;
+  width: 700px;
+  padding: 10px 5px;
+  margin-left: 480px;
+}
+
+.name2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  color: rgb(143, 133, 133);
+  margin:0px 5px;
+}
+.one_1{
+  padding: 10px 0;
+  width: 70%;
+  margin: auto;
+}
+.title{
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 300px;
+  text-align: start;
+  margin-left: 500px;
+  padding-bottom: 10px;
+  color:#bda521;
+}
+.btn1{
+  margin: 5px !important;
+}
+
+.search{
+  text-transform: uppercase;
+}
+
